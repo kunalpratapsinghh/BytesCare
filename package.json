@@ -1,0 +1,29 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "audio-compare": "^1.0.1",
+    "axios": "^1.4.0",
+    "chroma-js": "^2.4.2",
+    "chromaprint": "^0.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "fluent-ffmpeg": "^2.1.2",
+    "lodash": "^4.17.21",
+    "music-metadata": "^8.1.4",
+    "node-record-lpcm16": "^1.0.1",
+    "node-wav": "^0.0.2",
+    "nodemon": "^3.0.1",
+    "opensubtitles-api": "^5.1.2",
+    "puppeteer": "^21.0.1",
+    "screencap": "^1.0.0"
+  }
+}
